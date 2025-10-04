@@ -5,7 +5,7 @@ End-to-end NLP pipeline that classifies **BBC News** articles into five categori
 against an **LSTM** baseline using TensorFlow/Keras.
 
 > Maintainer: **Anahita Darban**  
-> Artifacts: Jupyter notebooks for CNN and LSTM, plus a concise final report (PDF).
+> Artifacts: Jupyter notebooks for CNN and LSTM.
 
 ---
 
